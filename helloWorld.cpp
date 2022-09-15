@@ -2,7 +2,7 @@
 //
 // Created by Cristiano Sellitto
 // Created in September 2022
-// A basic Hello, World !program with proper style
+// A basic Hello, World! program with proper style
 
 #include <iostream>
 
